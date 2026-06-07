@@ -1,199 +1,295 @@
-# 👋 Hi there, I'm **Saiful Islam Mahi** 
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Biomedical+Engineer;Deep+Learning+Researcher;Medical+AI+Enthusiast;Future+PhD+Scholar)
+
+<!-- NEURAL WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,50:0d47a1,100:00bcd4&height=200&section=header&text=Saiful%20Islam%20Mahi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Biomedical%20Engineer%20%E2%80%A2%20Computational%20Neuroscientist%20%E2%80%A2%20Medical%20AI%20Researcher&descAlignY=60&descSize=16&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=false&width=800&lines=Fractional+Neural+Mass+Modelling+%F0%9F%A7%A0;resting-state+fMRI+Biomarker+Design+%F0%9F%94%AC;Deep+Learning+for+Medical+Imaging+%F0%9F%A9%BB;PLOS+ONE+Published+Researcher+%F0%9F%93%84;Future+PhD+%E2%80%A2+Present+Builder+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- PROFILE BADGES ROW -->
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4454--5045-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4454-5045)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahikhan)
+[![GitHub](https://img.shields.io/badge/GitHub-MahiKhan5360-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahiKhan5360)
+[![Email](https://img.shields.io/badge/Email-saifulbme25@iu.ac.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifulbme25@iu.ac.bd)
 
 </div>
 
-
-
 ---
 
-## 🧬 **About Me**
+<div align="center">
+
+## ⚡ At a Glance
+
+</div>
 
 ```python
-class MahiKhan:
+class SaifulIslamMahi:
+    """
+    Biomedical Engineer | Computational Neuroscience Enthusiast | Medical AI Researcher
+    Islamic University, Kushtia, Bangladesh  ·  GPA: 3.50/4.00
+    """
+
     def __init__(self):
-        self.name = "Saiful Islam Mahi"
-        self.role = "Biomedical Engineering Student & AI Researcher"
-        self.university = "Islamic University, Bangladesh"
-        self.research_lab = "Bio-Imaging Research Lab"
-        self.focus = ["Medical Image Processing", "Deep Learning", "Computer Vision"]
-        self.future_goals = ["Industry Internship", "PhD in Medical AI", "Healthcare Innovation"]
-        
-    def current_work(self):
-        return [
-            "🔬 Developing ML/DL models for medical image analysis",
-            "🧠 Researching AI-driven diagnostic systems",  
-            "🏥 Building healthcare solutions with computer vision",
-            "📚 Preparing for advanced research opportunities"
+        self.name          = "Saiful Islam Mahi"
+        self.affiliation   = "Bio-Imaging Research Lab, Islamic University, Bangladesh"
+        self.advisor       = "Assoc. Prof. Dr. Md. Khairul Islam"
+        self.gpa           = 3.50  # /4.00  —  Departmental Merit Scholar (Top 6)
+
+        self.breakthroughs = [
+            "First asymmetric Caputo fractional Wilson–Cowan neural mass model (qE ≠ qI)",
+            "Novel resting-state fMRI biomarker q̂E = β/2  (r=0.993, N=50 HCP subjects)",
+            "NMDA–GABAergic double dissociation via resting-state fMRI  [first ever]",
         ]
+
+        self.published_in  = ["PLOS ONE (2025)"]
+        self.in_prep       = ["bioRxiv manuscript → 2026"]
+        self.conferences   = ["IEEE CS Bangladesh Chapter Summer Symposium 2025 (Presenter)"]
+
+    def current_mission(self) -> str:
+        return (
+            "Decode the brain's fractional-order dynamics and translate them "
+            "into clinically actionable neuroimaging biomarkers."
+        )
+
+    def next_destination(self) -> str:
+        return "PhD in Computational Neuroscience / Medical AI  🎯"
 ```
 
+---
+
 <div align="center">
-  
-### 🎯 **Current Mission**
-*Bridging the gap between cutting-edge AI technology and life-saving medical applications*
+
+
+
+---
+
+### 📄 PLOS ONE Publication (2025)
+
+> Tanjin R, Al-Amin M, Etee JM, Siddika A, Siddiki A, **Mahi SI**, et al.  
+> *"An evaluation of Roluperidone as a promising repurposing candidate for Alzheimer's Disease: A Computational Investigation."*  
+> **PLOS ONE** 20(12): e0338211, 2025. [doi:10.1371/journal.pone.0338211](https://doi.org/10.1371/journal.pone.0338211)
+
+Applied the full computational drug-discovery pipeline — from molecular docking and ADMET profiling to molecular dynamics simulation — to evaluate Roluperidone as an Alzheimer's repurposing candidate.
+
+---
+
+<div align="center">
+
+## 🚀 Project Portfolio
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [HCP fMRI Biomarker Pipeline](https://github.com/MahiKhan5360)
+**Python · Nibabel · Nilearn · SciPy**
+
+End-to-end batch pipeline for N=50 HCP subjects across 4 resting-state runs. Extracts CIFTI timeseries (59,412 grayordinates → 200 Schaefer parcels), applies Welch PSD + OLS log-log regression in the 0.01–0.10 Hz BOLD band.
+
+`r=0.993` `40,000 PSD estimates` `Schaefer-200`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 [Asymmetric Fractional WC Model](https://github.com/MahiKhan5360)
+**Python · NumPy · SciPy · Matplotlib**
+
+Grünwald–Letnikov Caputo derivative from scratch (M=300, convergence < 0.3%). Computed 141×141 Matignon stability atlas. Identified 3 novel oscillatory regimes including premature Hopf destabilisation (−18.3% shift).
+
+`Fractional Calculus` `Stability Atlas` `Hopf Bifurcation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 [Behavioural Biomarker Validation](https://github.com/MahiKhan5360)
+**Python · SciPy · Pandas · Nilearn**
+
+Merges Control-network q̂E with NIH Toolbox scores. Partial Pearson correlations across 5 cognitive domains (working memory, fluid intelligence, cognitive flexibility, episodic memory, response inhibition) with Benjamini–Hochberg FDR correction.
+
+`Partial Correlation` `FDR Correction` `5 Domains`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [Skin Lesion Segmentation — ISIC 2018](https://github.com/MahiKhan5360)
+**PyTorch · U-Net · MONAI · OpenCV**
+
+U-Net with transfer learning on the ISIC 2018 dermoscopy benchmark. Class-weighted Dice loss handles foreground–background imbalance.
+
+`>95% accuracy` `Early Melanoma Detection` `Transfer Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 [DNA Storage Error Correction](https://github.com/MahiKhan5360)
+**TensorFlow · Transformers · BioPython**
+
+Transformer-GRU-CNN hybrid for error localisation in DNA-based digital storage. Handles substitution, insertion, and deletion noise. Presented at **IEEE CS BDC Summer Symposium 2025**.
+
+`Hybrid Architecture` `DNA Storage` `IEEE Presented`
+
+</td>
+<td width="50%" valign="top">
+
+### 💊 [Alzheimer's Drug Repurposing](https://github.com/MahiKhan5360)
+**PyRx · NAMD · Gaussian · PyMOL**
+
+Full computational pipeline: target identification → molecular docking → ADMET profiling → molecular dynamics simulation → lead optimisation for Roluperidone as an AD candidate.
+
+`PLOS ONE Published` `MD Simulation` `ADMET`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Technical Stack
+
+</div>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Deep Learning & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-00ADEF?style=flat-square&logoColor=white)
+
+**Neuroimaging & Computational Neuroscience**
+
+![Nibabel](https://img.shields.io/badge/Nibabel-0a0f2e?style=flat-square&logoColor=white)
+![Nilearn](https://img.shields.io/badge/Nilearn-00bcd4?style=flat-square&logoColor=white)
+![MNE](https://img.shields.io/badge/MNE--Python-003366?style=flat-square&logoColor=white)
+![HCP](https://img.shields.io/badge/HCP%20fMRI-CIFTI%20·%20Schaefer200-6a0dad?style=flat-square&logoColor=white)
+
+**Computational Biology**
+
+![PyMOL](https://img.shields.io/badge/PyMOL-1E90FF?style=flat-square&logoColor=white)
+![NAMD](https://img.shields.io/badge/NAMD-003366?style=flat-square&logoColor=white)
+![PyRx](https://img.shields.io/badge/PyRx-27ae60?style=flat-square&logoColor=white)
+![Gaussian](https://img.shields.io/badge/Gaussian-FF6600?style=flat-square&logoColor=white)
+![ChemDraw](https://img.shields.io/badge/ChemDraw-00529B?style=flat-square&logoColor=white)
+
+**Scientific Computing**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MahiKhan5360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiKhan5360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MahiKhan5360&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahiKhan5360&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🚀 **Research Excellence**
-
 <div align="center">
 
-| 🧠 **Core Expertise** | 🔬 **Research Areas** | 🎯 **Applications** |
-|:---:|:---:|:---:|
-| Deep Learning | Medical Image Segmentation | Disease Diagnosis |
-| Computer Vision | Biomedical Signal Processing | Treatment Planning |
-| Machine Learning | Bioinformatics | Drug Discovery |
-| Medical AI | Healthcare Automation | Patient Monitoring |
+## 🏅 Recognition & Milestones
 
 </div>
 
-### 🔬 **Featured Research Projects**
-
-<details>
-<summary>🩺 <strong>Advanced Skin Lesion Segmentation System</strong></summary>
-
-- **Technology**: U-Net Architecture with Transfer Learning
-- **Dataset**: ISIC 2018 Challenge Dataset
-- **Achievement**: Achieved 95%+ segmentation accuracy
-- **Impact**: Potential for early melanoma detection
-- **Tools**: `PyTorch` `OpenCV` `scikit-image` `MONAI`
-
-</details>
-
-<details>
-<summary>🧬 <strong>DNA Storage Error Correction Framework</strong></summary>
-
-- **Innovation**: Hybrid Transformer-GRU-CNN Architecture
-- **Problem**: Error localization and correction in DNA-based data storage
-- **Breakthrough**: Novel approach to biological data integrity
-- **Tools**: `TensorFlow` `Transformers` `BioPython` `NumPy`
-
-</details>
-
-<details>
-<summary>👶 <strong>Smart Neonatal Care System</strong></summary>
-
-- **Solution**: IoT-enabled thermal regulation for premature infants
-- **Hardware**: Arduino-based embedded system
-- **Impact**: Potential to reduce neonatal mortality rates
-- **Integration**: Real-time monitoring with ML predictions
-
-</details>
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  🥇  Departmental Merit Scholarship — 3rd position, B.Sc. 3rd Year      ║
+║      Department of Biomedical Engineering, Islamic University  (2025–26) ║
+║                                                                          ║
+║  🥈  Departmental Merit Scholarship — 6th position, B.Sc. 2nd Year      ║
+║      Department of Biomedical Engineering, Islamic University  (2024–25) ║
+║                                                                          ║
+║  🎤  IEEE CS Bangladesh Chapter Summer Symposium 2025  —  PRESENTER      ║
+║      "DNAcodec: A Hybrid Deep Learning Framework for Robust Error        ║
+║       Localisation in DNA-Based Data Storage"                            ║
+║                                                                          ║
+║  📄  PLOS ONE Publication  —  Computational Alzheimer's Research  (2025) ║
+║      doi:10.1371/journal.pone.0338211                                    ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🛠️ **Technical Arsenal**
-
 <div align="center">
 
-### **Programming & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### **Medical AI & Bioinformatics**
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### **Development & Research Tools**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+## 📍 Research Timeline
 
 </div>
 
----
+```
+2022 ────────────────────────────────────────────────────────────────► 2026
 
-## 📊 **Research Impact & Statistics**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MahiKhan5360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahiKhan5360&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiKhan5360&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahiKhan5360&theme=tokyo-night&hide_border=true" width="48%"/>
-
-</div>
+  Jan 2022       Oct 2022          Jan 2024      2025          Present
+     │               │                 │           │              │
+     ▼               ▼                 ▼           ▼              ▼
+  Started ICT    B.Sc. BME        ABCD Lab     Bio-Imaging    bioRxiv
+  Teaching       @ IU, BD         Alzheimer's  Research Lab   Manuscript
+  Career         Begins           Repurposing  Joins          In Prep
+                                  (→ PLOS ONE) (→ WC Model)
+```
 
 ---
 
-## 🌟 **Academic Excellence**
-
 <div align="center">
 
-| 🏛️ **Institution** | 🎓 **Program** | 🔬 **Research Focus** |
-|:---:|:---:|:---:|
-| **Islamic University, Bangladesh** | B.Sc. Biomedical Engineering | Medical Image Processing |
-| **Bio-Imaging Research Lab** | Research Member | AI in Healthcare |
+## 🌐 Let's Collaborate
 
-</div>
+I'm always open to:
 
-### 🏆 **Achievements & Recognition**
-- 🔬 **Active Researcher** in Bio-Imaging Research Lab
-- 🧠 **Specialized** in Medical AI and Deep Learning
-- 📊 **Published** research work in medical image analysis
-- 🎯 **Targeting** top-tier PhD programs in Medical AI
+🔬 **Joint research** in computational neuroscience or medical AI  
+📚 **PhD opportunities** in neuro-AI, brain imaging, or medical image analysis  
+🏥 **Industry collaborations** applying AI to clinical diagnostics  
+🤝 **Open-source projects** in neuroimaging or biomedical deep learning
 
----
+<br/>
 
-## 🌐 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful-islam-mahi-331759244/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahi.khan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahi.khan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahikhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifulbme25@iu.ac.bd)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4454-5045)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahikhan5360@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahiKhan5360)
 
-</div>
-
----
-
-## 🎯 **Career Roadmap**
-
-```mermaid
-graph LR
-    A[🎓 Current: Final Year Student] --> B[🔬 Next: ML/DL Internship]
-    B --> C[📚 Goal: PhD in Medical AI]
-    C --> D[🚀 Vision: Healthcare Innovation Leader]
-    
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4  
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-```
-
-<div align="center">
-
-### 💡 **Open to Opportunities**
-🔬 **Research Internships** | 🏥 **Medical AI Projects** | 📚 **PhD Collaborations** | 🚀 **Healthcare Startups**
-
-</div>
+<br/>
 
 ---
 
-<div align="center">
+*"The brain speaks in fractional time. I'm learning to listen."*
 
-### 🌟 **"Where Medical Science Meets Artificial Intelligence"**
+<br/>
 
-*"I believe AI has the power to revolutionize healthcare, making diagnostic tools more accurate, accessible, and life-saving. My mission is to be at the forefront of this transformation."*
+![Profile Views](https://komarev.com/ghpvc/?username=MahiKhan5360&color=00bcd4&style=flat-square&label=Profile+Views)
 
----
-
-
-⭐ **Star my repositories if you find them interesting!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:0d47a1,100:0a0f2e&height=120&section=footer" />
 
 </div>
