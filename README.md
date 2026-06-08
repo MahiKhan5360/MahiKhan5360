@@ -28,14 +28,14 @@
 class SaifulIslamMahi:
     """
     Biomedical Engineer | Computational Neuroscience Enthusiast | Medical AI Researcher
-    Islamic University, Kushtia, Bangladesh  ·  GPA: 3.50/4.00
+    Islamic University, Kushtia, Bangladesh  ·
     """
 
     def __init__(self):
         self.name          = "Saiful Islam Mahi"
         self.affiliation   = "Bio-Imaging Research Lab, Islamic University, Bangladesh"
         self.advisor       = "Assoc. Prof. Dr. Md. Khairul Islam"
-        self.gpa           = 3.50  # /4.00  —  Departmental Merit Scholar (Top 6)
+        self.gpa           = 
 
         self.breakthroughs = [
             "First asymmetric Caputo fractional Wilson–Cowan neural mass model (qE ≠ qI)",
