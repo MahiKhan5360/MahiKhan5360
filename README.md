@@ -244,25 +244,8 @@ Full computational pipeline: target identification → molecular docking → ADM
 
 <div align="center">
 
-## 📍 Research Timeline
 
-</div>
 
-```
-2022 ────────────────────────────────────────────────────────────────► 2026
-
-  Jan 2022       Oct 2022          Jan 2024      2025          Present
-     │               │                 │           │              │
-     ▼               ▼                 ▼           ▼              ▼
-  Started ICT    B.Sc. BME        ABCD Lab     Bio-Imaging    bioRxiv
-  Teaching       @ IU, BD         Alzheimer's  Research Lab   Manuscript
-  Career         Begins           Repurposing  Joins          In Prep
-                                  (→ PLOS ONE) (→ WC Model)
-```
-
----
-
-<div align="center">
 
 ## 🌐 Let's Collaborate
 
