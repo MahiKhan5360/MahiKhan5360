@@ -217,32 +217,9 @@ Full computational pipeline: target identification → molecular docking → ADM
 
 ---
 
-<div align="center">
 
-## 🏅 Recognition & Milestones
 
-</div>
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  🥇  Departmental Merit Scholarship — 3rd position, B.Sc. 3rd Year      ║
-║      Department of Biomedical Engineering, Islamic University  (2025–26) ║
-║                                                                          ║
-║  🥈  Departmental Merit Scholarship — 6th position, B.Sc. 2nd Year      ║
-║      Department of Biomedical Engineering, Islamic University  (2024–25) ║
-║                                                                          ║
-║  🎤  IEEE CS Bangladesh Chapter Summer Symposium 2025  —  PRESENTER      ║
-║      "DNAcodec: A Hybrid Deep Learning Framework for Robust Error        ║
-║       Localisation in DNA-Based Data Storage"                            ║
-║                                                                          ║
-║  📄  PLOS ONE Publication  —  Computational Alzheimer's Research  (2025) ║
-║      doi:10.1371/journal.pone.0338211                                    ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
 
 
 
