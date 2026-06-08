@@ -10,7 +10,7 @@
 
 <!-- PROFILE BADGES ROW -->
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4454--5045-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4454-5045)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahikhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mahikhan](https://www.linkedin.com/in/saiful-islam-mahi-331759244/))
 [![GitHub](https://img.shields.io/badge/GitHub-MahiKhan5360-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahiKhan5360)
 [![Email](https://img.shields.io/badge/Email-saifulbme25@iu.ac.bd-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifulbme25@iu.ac.bd)
 
