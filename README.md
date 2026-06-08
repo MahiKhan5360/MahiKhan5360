@@ -35,7 +35,7 @@ class SaifulIslamMahi:
         self.name          = "Saiful Islam Mahi"
         self.affiliation   = "Bio-Imaging Research Lab, Islamic University, Bangladesh"
         self.advisor       = "Assoc. Prof. Dr. Md. Khairul Islam"
-        self.gpa           = 
+       
 
         self.breakthroughs = [
             "First asymmetric Caputo fractional Wilson–Cowan neural mass model (qE ≠ qI)",
