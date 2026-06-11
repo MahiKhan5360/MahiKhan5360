@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- NEURAL WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,50:0d47a1,100:00bcd4&height=200&section=header&text=Saiful%20Islam%20Mahi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Biomedical%20Engineer%20%E2%80%A2%20Neuroimaging%20Researcher%20%E2%80%A2%20Medical%20AI%20Researcher&descAlignY=60&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,50:0d47a1,100:00bcd4&height=200&section=header&text=Saiful%20Islam%20Mahi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Biomedical%20Engineer%20%E2%80%A2%20Neuroimaging%20Researcher%20%E2%80%A2%20Medical%20AI%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=false&width=800&lines=Neural+Modelling+%F0%9F%A7%A0;resting-state+fMRI+Biomarker+Design+%F0%9F%94%AC;Deep+Learning+for+Medical+Imaging+%F0%9F%A9%BB;Future+PhD+%E2%80%A2+Present+Builder+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=false&width=800&lines=Neural+Modelling+%F0%9F%A7%A0;resting-state+fMRI+Biomarker+Design+%F0%9F%94%AC;Deep+Learning+for+Medical+Imaging+%F0%9F%A9%BB;Aspiring+Neuroscience+PhD%E2%80%A2)](https://git.io/typing-svg)
 
 <br/>
 
